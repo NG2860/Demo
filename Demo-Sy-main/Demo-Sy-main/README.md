@@ -1,4 +1,4 @@
-# Demo-Sy  
+# Demo
 Ngôn ngữ:: Java Springboots Maven  
 DataBase: mySQL  
 CREATE TABLE `users` (  
